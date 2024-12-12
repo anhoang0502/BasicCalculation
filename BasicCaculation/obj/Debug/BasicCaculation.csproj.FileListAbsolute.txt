@@ -1,0 +1,30 @@
+C:\Users\ASUS\source\repos\BasicCaculation\BasicCaculation\obj\Debug\BasicCaculation.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\BasicCaculation\BasicCaculation\obj\Debug\BasicCaculation.CaculateForm.resources
+C:\Users\ASUS\source\repos\BasicCaculation\BasicCaculation\obj\Debug\BasicCaculation.Properties.Resources.resources
+C:\Users\ASUS\source\repos\BasicCaculation\BasicCaculation\obj\Debug\BasicCaculation.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\BasicCaculation\BasicCaculation\obj\Debug\BasicCaculation.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BasicCaculation\BasicCaculation\bin\Debug\BasicCaculation.exe.config
+C:\Users\ASUS\source\repos\BasicCaculation\BasicCaculation\bin\Debug\BasicCaculation.exe
+C:\Users\ASUS\source\repos\BasicCaculation\BasicCaculation\bin\Debug\BasicCaculation.pdb
+C:\Users\ASUS\source\repos\BasicCaculation\BasicCaculation\obj\Debug\BasicCaculation.exe
+C:\Users\ASUS\source\repos\BasicCaculation\BasicCaculation\obj\Debug\BasicCaculation.pdb
+C:\Users\ASUS\source\repos\BasicCaculation - Copy\BasicCaculation\bin\Debug\BasicCaculation.exe.config
+C:\Users\ASUS\source\repos\BasicCaculation - Copy\BasicCaculation\bin\Debug\BasicCaculation.exe
+C:\Users\ASUS\source\repos\BasicCaculation - Copy\BasicCaculation\bin\Debug\BasicCaculation.pdb
+C:\Users\ASUS\source\repos\BasicCaculation - Copy\BasicCaculation\obj\Debug\BasicCaculation.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\BasicCaculation - Copy\BasicCaculation\obj\Debug\BasicCaculation.CaculateForm.resources
+C:\Users\ASUS\source\repos\BasicCaculation - Copy\BasicCaculation\obj\Debug\BasicCaculation.Properties.Resources.resources
+C:\Users\ASUS\source\repos\BasicCaculation - Copy\BasicCaculation\obj\Debug\BasicCaculation.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\BasicCaculation - Copy\BasicCaculation\obj\Debug\BasicCaculation.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BasicCaculation - Copy\BasicCaculation\obj\Debug\BasicCaculation.exe
+C:\Users\ASUS\source\repos\BasicCaculation - Copy\BasicCaculation\obj\Debug\BasicCaculation.pdb
+C:\Users\ASUS\source\repos\BasicCaculation - C1\BasicCaculation\bin\Debug\BasicCaculation.exe.config
+C:\Users\ASUS\source\repos\BasicCaculation - C1\BasicCaculation\bin\Debug\BasicCaculation.exe
+C:\Users\ASUS\source\repos\BasicCaculation - C1\BasicCaculation\bin\Debug\BasicCaculation.pdb
+C:\Users\ASUS\source\repos\BasicCaculation - C1\BasicCaculation\obj\Debug\BasicCaculation.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\BasicCaculation - C1\BasicCaculation\obj\Debug\BasicCaculation.CaculateForm.resources
+C:\Users\ASUS\source\repos\BasicCaculation - C1\BasicCaculation\obj\Debug\BasicCaculation.Properties.Resources.resources
+C:\Users\ASUS\source\repos\BasicCaculation - C1\BasicCaculation\obj\Debug\BasicCaculation.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\BasicCaculation - C1\BasicCaculation\obj\Debug\BasicCaculation.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BasicCaculation - C1\BasicCaculation\obj\Debug\BasicCaculation.exe
+C:\Users\ASUS\source\repos\BasicCaculation - C1\BasicCaculation\obj\Debug\BasicCaculation.pdb
